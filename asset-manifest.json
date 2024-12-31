@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sukharda_web/static/css/main.08e4ab5f.css",
+    "main.js": "/sukharda_web/static/js/main.6a4b18bf.js",
+    "static/js/787.9854bc28.chunk.js": "/sukharda_web/static/js/787.9854bc28.chunk.js",
+    "static/media/logo.svg": "/sukharda_web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sukharda_web/index.html",
+    "main.08e4ab5f.css.map": "/sukharda_web/static/css/main.08e4ab5f.css.map",
+    "main.6a4b18bf.js.map": "/sukharda_web/static/js/main.6a4b18bf.js.map",
+    "787.9854bc28.chunk.js.map": "/sukharda_web/static/js/787.9854bc28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e4ab5f.css",
+    "static/js/main.6a4b18bf.js"
+  ]
+}
